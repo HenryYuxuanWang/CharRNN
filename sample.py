@@ -44,6 +44,4 @@ if __name__ == '__main__':
 python sample.py --embedding --tokenizer_path model/Chinese_poetry/tokenizer.pkl --checkpoint_path model/Chinese_poetry/ --max_length 300 --start_string 春暖花开时
 
 python sample.py --tokenizer_path model/jay/tokenizer.pkl --checkpoint_path  model/jay  --max_length 500  --embedding --n_layers 3 --start_string 晴天
-
-
 '''
